@@ -1,5 +1,7 @@
 # Bubbly the anti-stress game
 
+![](image.png)
+
 Backstory: I got mad at a 2008 original flash game[^1] so I went to remake this, minus challenges.
 
 
